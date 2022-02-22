@@ -10,5 +10,10 @@
 ## Page After uploading some Images
 ![Screenshot (56)](https://user-images.githubusercontent.com/95559116/155070801-92810a38-3b33-4a79-b7de-b1275dec37b3.png)
 
+## Django Administraton page
+![Screenshot (57)](https://user-images.githubusercontent.com/95559116/155071033-755929b3-58dd-4b33-b86b-463d4613a9e4.png)
+
+
+
 
 
